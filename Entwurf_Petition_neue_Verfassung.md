@@ -1,4 +1,4 @@
-### Petition "In via ad democratiam directam"
+### Petition: *Auf den Weg zur direkten Demokratie - das unentdeckte Land*
 
 **Antrag:**
 Der Staat soll eine Volksabstimmung durchführen, um über die Annahme der vorgeschlagenen neuen Verfassung zu entscheiden. Die Annahmebedingung für die neue Verfassung erfordert, analog zur Annahme des Grundgesetzes von 1949, eine Zweidrittelmehrheit.
@@ -10,8 +10,6 @@ Der Staat soll eine Volksabstimmung durchführen, um über die Annahme der vorge
 Dieses Schreiben, inklusive seiner Ansätze und Thesen, zielt darauf ab, einen Weg zu beschreiten, der das Wohl des deutschen Volkes und all seiner Individuen gleichermaßen in den Mittelpunkt stellt.
 
 > "Es ist besser, ein einziges kleines Licht anzuzünden, als die Dunkelheit zu verfluchen." (Konfuzius)
-
-**Titel: Auf den Weg zur direkten Demokratie - das unentdeckte Land.**
 
 **Absicht:**
 Zum Wohle des Volkes und damit aller Menschen soll dieses winzige Licht leuchten auf dem Wege zur direkten Demokratie, deren Fundament der Schutz des Individuums mit Ewigkeitsgarantie sei. Ziel ist die Rückgewinnung der Souveränität des deutschen Volkes.
@@ -122,7 +120,8 @@ Folgendes soll zunächst als vorläufiger Schutz des Individuums gelten:
 
 - Grundrechte nach BRD GG Art. 1 bis 19, allerdings nicht enthalten sind 12a, 16a und 17a.
 - Art. 4 Abs. 2 ist auf den privaten Raum zu beschränken, und Klauseln, die Einschränkung durch andere Gesetze ermöglichen, sind ungültig/hinfällig.
-- Das Recht auf analoges Leben und die Unschuldsvermutung werden hinzugefügt.
+- Das Recht auf analoges Leben, §32 StGB Notwehr und die Unschuldsvermutung werden hinzugefügt.
+- Ergänzung: Eine natürliche Person darf nicht schlechter gestellt werden als rein juristische Personen.
 - Die Menschenwürde nach BRD GG Art. 1 ist vage und soll mit folgender Ergänzung klarer bestimmt werden: "Die Menschenwürde beinhaltet zumindest, dass der Mensch nicht verdinglicht werden darf (zum Objekt reduziert). Folglich ist damit die (bewusste) Entscheidungsfreiheit als essentieller Aspekt eines Menschen zu erachten und darf demnach keinem Zwang/Pflicht oder Unterdrückung unterworfen werden. Die einzige Ausnahme hierzu ist der Schutz des Individuums."
 
 Die Erstellung eines reinen und initialen *Schutz des Individuums* ist Auftrag für die nachfolgende Zeit und muss durch eine Volksabstimmung bestätigt werden, um die vorläufige Festlegung abzulösen. Der Schutz des Individuums kann auch nachträglich um neue Schutzelemente erweitert werden. Bis dahin besteht auch für den vorläufigen Schutz des Individuums die Ewigkeitsgarantie.

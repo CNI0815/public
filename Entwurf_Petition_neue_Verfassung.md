@@ -33,7 +33,7 @@ Jegliche Person darf maximal Teil einer Gewalt zur gleichen Zeit bzw. Wahlperiod
 Die Dienstzeit der durch das Volk gewählten Volksvertreter, Führungsebenen, Aufsichtsräte etc. ist auf zwei Jahre beschränkt. Die Wahlperiode von zwei Jahren wird als hinreichend erachtet und fördert bessere Steuerung bzw. Korrektur durch das Volk.
 
 **Volksabstimmungen:**
-Die Teilnahme an Volksabstimmungen ist freiwillig, die Verantwortung für informierte Entscheidungen liegt beim Individuum. Eine Volksabstimmung bedingt lediglich eine Mindestbeteiligung von einem einzigen Bürger (theoretisch). Diese Festlegung dient der Freiwilligkeit und fördert ggf. Effizienz. Die Zustimmung des Volkes bedingt im Allgemeinen eine 2/3 Mehrheit.
+Die Teilnahme an Volksabstimmungen ist freiwillig, die Verantwortung für informierte Entscheidungen liegt beim Individuum. Eine Volksabstimmung bedingt lediglich eine Mindestbeteiligung von einem einzigen Bürger (theoretisch). Diese Festlegung dient der Freiwilligkeit und fördert ggf. Effizienz. Die Zustimmung des Volkes bedingt eine 2/3 Mehrheit.
 
 ---
 
@@ -68,7 +68,7 @@ Die Teilnahme an Volksabstimmungen ist freiwillig, die Verantwortung für inform
 
 ### Verteidigungsallianz (militärische Gewalt)
 
-Die militärische Gewalt wird von anderen Gewalten (Exekutive) getrennt und untersteht einer demokratischen Kontrolle, welche direkt durch die beteiligten Völker gewählt wird. Dieses demokratische Kontrollorgan bestünde aus einem Präsidenten und einem Regierungsstab, die den militärischen Oberbefehlshaber benennen und diesem weisungsbefugt sind - ergo in der Befehlshierarchie über dem Oberbefehlshaber stehen.
+Die militärische Gewalt wird von anderen Gewalten getrennt und untersteht einer demokratischen Kontrolle, welche direkt durch die beteiligten Völker gewählt wird. Dieses demokratische Kontrollorgan bestünde aus einem Präsidenten und einem Regierungsstab, die den militärischen Oberbefehlshaber benennen und diesem weisungsbefugt sind - ergo in der Befehlshierarchie über dem Oberbefehlshaber stehen.
 
 Damit wird die militärische Gewalt von nationalen Entscheidungen losgelöst und die Grundlage für eine gemeinschaftliche Verteidigungsarmee geschaffen. Deren Zweck besteht allein in der Verteidigung der Mitgliedsstaaten bzw. Völker.
 
@@ -102,7 +102,7 @@ Alle Beteiligten in den Gewalten bzw. staatlichen Institutionen unterstehen dami
 
 - **Nationales Recht dominiert internationales Recht:** Jeder Vertrag ist stets unserer Verfassung untergeordnet.
 - **Zweckbindung staatlicher Gelder:** Jegliche staatliche Einnahmen (egal ob Steuer oder Abgabe) dürfen nur inländisch verwendet bzw. investiert werden. Auslandshilfen bedingen die Zustimmung des Volkes (Volksabstimmung!).
-- **Keine Schulden:** Der Staat darf keine Schulden machen. Projekte, die durch den gegebenen Haushalt nicht gedeckt sind, können dem Volk vorgeschlagen werden und durch Spenden realisiert werden. Kreditaufnahme/Schulden bedingen der Zustimmung des Volkes (Volksabstimmung!).
+- **Keine Schulden:** Der Staat darf keine Schulden machen. Projekte, die durch den gegebenen Haushalt nicht gedeckt sind, können dem Volk vorgeschlagen und durch Spenden realisiert werden. Kreditaufnahme/Schulden bedingen der Zustimmung des Volkes (Volksabstimmung!).
 - **Sicherung der Grundversorgung:** Infrastruktur soll immer Volkseigentum bleiben. Grundversorgung/-Absicherung elementarer Bereiche (z.B. durch mehr gemeinnützige und nicht gewinnorientierte inländische Organisationen).
 - **Keine Subventionen in die Privatwirtschaft:** Stattdessen müssen förderliche Rahmenbedingungen geschaffen werden ("Nährboden"). Ggf. nur mit Volksabstimmung.
 - **Schutz der deutschen Sprache:** Informationsaustausch durch alles staatliche, aber auch private Unternehmen, Medien und der Gleichen haben in deutscher Sprache zu kommunizieren.

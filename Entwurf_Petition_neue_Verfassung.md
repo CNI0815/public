@@ -126,6 +126,29 @@ Folgendes soll zunächst als vorläufiger Schutz des Individuums gelten:
 
 Die Erstellung eines reinen und initialen *Schutz des Individuums* ist Auftrag für die nachfolgende Zeit und muss durch eine Volksabstimmung bestätigt werden, um die vorläufige Festlegung abzulösen. Der Schutz des Individuums kann auch nachträglich um neue Schutzelemente erweitert werden. Bis dahin besteht auch für den vorläufigen Schutz des Individuums die Ewigkeitsgarantie.
 
+
+---
+
+### Organisation von Volksabstimmung
+
+Dieser Abschnitt beschreibt den initialen Ablauf von Volksabstimmungen.
+
+Gesetze, Verträge, Notstandsbeschlüsse und sonstige Maßnahmen/Vorhaben sind Sachverhalte, über die das Volk durch eine Volksabstimmung entscheiden soll, indem es diese i.d.R. annimmt oder ablehnt. Um eine fundierte und informative Entscheidung des Souveräns zu ermöglichen, ist grundsätzlich ein demokratischer Diskurs zu führen.
+Der Geltungsbereich bestimmt, ob eine regionale, landes- oder bundesweite Volksabstimmung erforderlich ist. Sofern die Angelegenheit nicht rein inländischer Natur ist, ist eine bundesweite Volksabstimmung zwingend notwendig.
+
+Zeitrahmen für Volksabstimmungen:
+
+- **Regelfall:** Ein Zeitraum von drei Monaten zwischen der Zugänglichkeit der Informationen und der Durchführung der Volksabstimmung gilt als ausreichend.
+- **Ausnahmefall (Hohe objektive Dringlichkeit):** Unter hinreichender Begründung kann dieser Zeitraum verkürzt werden, wobei eine Mindestdauer von einer Woche einzuhalten ist.
+- **Extremfall (Höchste objektive Dringlichkeit):** Im Extremfall kann der Zeitraum bei ausreichender Begründung komplett entfallen. Dies bedingt jedoch zwingend eine nachträgliche Volksabstimmung, die unverzüglich, spätestens jedoch zwei Wochen nach der Maßnahme, durchzuführen ist.
+
+Dringlichkeitseinschätzung nach Sachgebiet:
+
+- **Gesetze:** In der Regel keine hohe Dringlichkeit.
+- **Verträge:** In der Regel keine hohe Dringlichkeit.
+- **Maßnahmen:** In der Regel keine hohe Dringlichkeit; Ausnahmen sind jedoch erwartbar.
+- **Notstand:** Erwartungsgemäß höchste Dringlichkeit.
+
 ---
 
 ### Anmerkung

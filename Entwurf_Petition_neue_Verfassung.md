@@ -7,18 +7,18 @@ Der Staat soll eine Volksabstimmung durchführen, um über die Annahme der vorge
 
 ### Vorwort
 
-Dieses Schreiben, inklusive seiner Ansätze und Thesen, zielt darauf ab, einen Weg zu beschreiten, der das Wohl des deutschen Volkes und all seiner Individuen gleichermaßen in den Mittelpunkt stellt.
+Dieses Schreiben zielt darauf ab einen Weg zu beschreiten, der das Wohl des deutschen Volkes und all seiner Individuen gleichermaßen in den Mittelpunkt stellt.
 
 > "Es ist besser, ein einziges kleines Licht anzuzünden, als die Dunkelheit zu verfluchen." (Konfuzius)
 
 **Absicht:**
-Zum Wohle des Volkes und damit aller Menschen soll dieses winzige Licht leuchten auf dem Wege zur direkten Demokratie, deren Fundament der Schutz des Individuums mit Ewigkeitsgarantie sei. Ziel ist die Rückgewinnung der Souveränität des deutschen Volkes.
+Zum Wohle des deutschen Volkes und damit aller Menschen soll dieses winzige Licht leuchten auf dem Wege zur direkten Demokratie, deren Fundament der Schutz des Individuums mit Ewigkeitsgarantie sei. Ziel ist die Rückgewinnung der Souveränität des deutschen Volkes.
 
 ---
 
 ### Ansatz
 
-Die Reformation wird durch die neue Verfassung eingeleitet. Dazu werden im Folgenden neue Grundlagen definiert und Systemänderungen spezifiziert, welche bindend und unumstößlich gültig sind, ohne jegliche Möglichkeit der Aussetzung oder Entfremdung bzw. Umdeutung. Dies bildet die Ausgangsbasis und ermöglicht bestehende Gesetze und Institutionen der BRD zunächst als vorläufig gültig zu erhalten, insofern sie nicht in Konflikt mit den neuen Grundlagen bzw. Systemänderungen stehen. Die hier aufgeführten neuen Grundlagen bzw. Systemänderungen sind damit stets erhaben, und BRD-Regelungen, -Gesetze (Paragraphen) und -Institutionen etc. sind untergeordnet oder ungültig, falls diese in Konflikt stehen.
+Die Reformation wird durch die neue Verfassung eingeleitet und bilded damit die Ausgangsbasis. Dazu werden im Folgenden neue Grundlagen definiert und Systemänderungen spezifiziert, welche die Entscheidungsgewalt direkt dem Volke überträgt. Daher sollen diese Änderungen bindend und unumstößlich gültig sein, ohne jegliche Möglichkeit der Aussetzung oder Entfremdung bzw. Umdeutung. Dies ermöglicht weiterhin bestehende Gesetze und Institutionen der BRD zumindest als vorläufig gültig zu erhalten, insofern sie nicht in Konflikt mit den neuen Grundlagen bzw. Systemänderungen stehen. Die hier aufgeführten neuen Grundlagen bzw. Systemänderungen sind damit stets erhaben, und BRD-Regelungen, -Gesetze (Paragraphen) und -Institutionen etc. sind untergeordnet oder ungültig, falls diese in Konflikt stehen.
 
 Die Implementierung zielt auf aufrichtige Teilhabe und wahrhafte Demokratie ab, bei der wörtlich jede Gewalt vom Volk ausgeht. Somit ist dies als erste und initiale Maßnahme zu verstehen, um die Volksbeteiligung - in Freiheit und Verantwortung - sukzessive auszubauen und damit den Rückbau und Übergriff des Staatsapparats auf das notwendige und minimale Maß durch grundlegende Reformationen zu realisieren.
 
@@ -101,10 +101,10 @@ Alle Beteiligten in den Gewalten bzw. staatlichen Institutionen unterstehen dami
 ### Zusätzliche Punkte
 
 - **Nationales Recht dominiert internationales Recht:** Jeder Vertrag ist stets unserer Verfassung untergeordnet.
-- **Zweckbindung staatlicher Gelder:** Jegliche staatliche Einnahmen (egal ob Steuer oder Abgabe) dürfen nur inländisch verwendet bzw. investiert werden. Auslandshilfen bedingen die Zustimmung des Volkes (Volksabstimmung!).
+- **Zweckbindung staatlicher Gelder:** Jegliche staatliche Einnahmen (egal ob Steuer oder Abgabe) dürfen nur inländisch verwendet bzw. investiert werden. Auslandshilfen bedingen der Zustimmung des Volkes (Volksabstimmung!).
 - **Keine Schulden:** Der Staat darf keine Schulden machen. Projekte, die durch den gegebenen Haushalt nicht gedeckt sind, können dem Volk vorgeschlagen und durch Spenden realisiert werden. Kreditaufnahme/Schulden bedingen der Zustimmung des Volkes (Volksabstimmung!).
-- **Sicherung der Grundversorgung:** Infrastruktur soll immer Volkseigentum bleiben. Grundversorgung/-Absicherung elementarer Bereiche (z.B. durch mehr gemeinnützige und nicht gewinnorientierte inländische Organisationen).
-- **Keine Subventionen in die Privatwirtschaft:** Stattdessen müssen förderliche Rahmenbedingungen geschaffen werden ("Nährboden"). Ggf. nur mit Volksabstimmung.
+- **Sicherung der Grundversorgung:** Infrastruktur (z.B. Straßen, Leitungen, ..) soll immer Volkseigentum bleiben. Grundversorgung/-Absicherung elementarer Bereiche (z.B. durch mehr gemeinnützige und nicht gewinnorientierte inländische Organisationen).
+- **Keine Subventionen:** Stattdessen müssen förderliche Rahmenbedingungen geschaffen werden ("Nährboden"). Dies betrifft alle Varianten von privater Organisation, Unternehmung bzw. Gesellschaftsformen (z.B. NGO's, Parteien, Stiftungen, Firmen, Konzerne etc.). Diese müssen sich privat, d.h. selbst oder durch Spenden finanzieren. Ggf. nur mit Volksabstimmung. 
 - **Schutz der deutschen Sprache:** Informationsaustausch durch alles staatliche, aber auch private Unternehmen, Medien und der Gleichen haben in deutscher Sprache zu kommunizieren.
 - **Kein Recht auf Asyl:** Ein unbeschränktes Recht auf Asyl ist unrealistisch und einer Bevölkerung nicht zumutbar. Das Recht auf Asyl (BRD GG Art. 16a) beraubt den deutschen Bürger und damit das gesamte Volk seiner Selbstbestimmung und Menschenwürde. Daher wird es als ungültig und unwirksam erklärt. Das Volk allein kann Asyl gewähren (Volksabstimmung!).
 - **§188 StGB ("Majestätsbeleidigung")** wird mit sofortiger Wirkung ungültig und unwirksam.
@@ -133,7 +133,7 @@ Die Erstellung eines reinen und initialen *Schutz des Individuums* ist Auftrag f
 
 Dieser Abschnitt beschreibt den initialen Ablauf von Volksabstimmungen.
 
-Gesetze, Verträge, Notstandsbeschlüsse und sonstige Maßnahmen/Vorhaben sind Sachverhalte, über die das Volk durch eine Volksabstimmung entscheiden soll, indem es diese i.d.R. annimmt oder ablehnt. Um eine fundierte und informative Entscheidung des Souveräns zu ermöglichen, ist grundsätzlich ein demokratischer Diskurs zu führen.
+Gesetze, Verträge, Notstandsbeschlüsse und sonstige Maßnahmen/Vorhaben sind Sachverhalte, über die das Volk durch eine Volksabstimmung entscheiden soll, indem es diese annimmt oder ablehnt. Um eine fundierte und informative Entscheidung des Souveräns zu ermöglichen, ist grundsätzlich ein demokratischer Diskurs zu führen.
 Der Geltungsbereich bestimmt, ob eine regionale, landes- oder bundesweite Volksabstimmung erforderlich ist. Sofern die Angelegenheit nicht rein inländischer Natur ist, ist eine bundesweite Volksabstimmung zwingend notwendig.
 
 Zeitrahmen für Volksabstimmungen:

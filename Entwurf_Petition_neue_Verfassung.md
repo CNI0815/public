@@ -153,7 +153,7 @@ Dringlichkeitseinschätzung nach Sachgebiet:
 
 ### Anmerkung
 
-Die Änderungen bilden die Grundlage und können nach dem Willen des Volkes weiterentwickelt werden. Denn es ermächtigt die deutschen Staatsbürger und erhebt sie vom Untertan zum wahrhaften Souverän.
+Die Änderungen bilden die Grundlage und können nach dem Willen des Volkes weiterentwickelt werden. Denn es ermächtigt die deutschen Staatsbürger und erhebt jeden Einzelnen vom Untertan zum wahrhaften Souverän.
 
 Den weiteren Weg lasst uns gemeinsam bestimmen - Sapere aude!
 

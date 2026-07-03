@@ -106,7 +106,7 @@ Alle Beteiligten in den Gewalten bzw. staatlichen Institutionen unterstehen dami
 - **Sicherung der Grundversorgung:** Infrastruktur (z.B. Straßen, Leitungen, ..) soll immer Volkseigentum bleiben. Grundversorgung/-Absicherung elementarer Bereiche (z.B. durch mehr gemeinnützige und nicht gewinnorientierte inländische Organisationen).
 - **Keine Subventionen:** Stattdessen müssen förderliche Rahmenbedingungen geschaffen werden ("Nährboden"). Dies betrifft alle Varianten von privater Organisation, Unternehmung bzw. Gesellschaftsformen (z.B. NGO's, Parteien, Stiftungen, Firmen, Konzerne etc.). Diese müssen sich privat, d.h. selbst oder durch Spenden finanzieren. Ggf. nur mit Volksabstimmung. 
 - **Schutz der deutschen Sprache:** Informationsaustausch durch alles staatliche, aber auch private Unternehmen, Medien und der Gleichen haben in deutscher Sprache zu kommunizieren.
-- **Kein Recht auf Asyl:** Ein unbeschränktes Recht auf Asyl ist unrealistisch und einer Bevölkerung nicht zumutbar. Das Recht auf Asyl (BRD GG Art. 16a) beraubt den deutschen Bürger und damit das gesamte Volk seiner Selbstbestimmung und Menschenwürde. Daher wird es als ungültig und unwirksam erklärt. Das Volk allein kann Asyl gewähren (Volksabstimmung!).
+- **Kein Recht auf Asyl:** Das Asylrecht (Art. 16a des Grundgesetzes der Bundesrepublik Deutschland) stellt einen Zwang dar, der das Volk seiner Selbstbestimmung beraubt und die Menschenwürde verletzt. Aus diesem Grund wird es für ungültig und nicht wirksam erklärt. Nur das Volk kann Asyl gewähren (Volksabstimmung!).
 - **§188 StGB ("Majestätsbeleidigung")** wird mit sofortiger Wirkung ungültig und unwirksam.
 
 ---

@@ -1,7 +1,7 @@
 ### Petition: *Auf den Weg zur direkten Demokratie - das unentdeckte Land*
 
 **Antrag:**
-Der Staat soll eine Volksabstimmung durchführen, um über die Annahme der vorgeschlagenen neuen Verfassung zu entscheiden. Die Annahmebedingung für die neue Verfassung erfordert, analog zur Annahme des Grundgesetzes von 1949, eine Zweidrittelmehrheit.
+Die Bundesregierung soll eine Volksabstimmung durchführen, um über die Annahme der vorgeschlagenen neuen Verfassung zu entscheiden. Die Annahmebedingung für die neue Verfassung erfordert, analog zur Annahme des Grundgesetzes von 1949, eine Zweidrittelmehrheit.
 
 ---
 
@@ -114,7 +114,7 @@ Alle Beteiligten in den Gewalten bzw. staatlichen Institutionen unterstehen dami
 ### Schutz des Individuums
 
 Der ideelle diplomatische Ansatzpunkt ist das Individuum und die Gleichwertigkeit aller Individuen. Der Schutz des Individuums ist zugleich Recht und Pflicht - im Sinne: So du gewährst, so sollst du empfangen.
-Der Grundgedanke: die Freiheit des Individuums soll möglichst maximal erhalten bleiben und nur minimal eingeschränkt werden, um die friedliche Koexistenz zu gewährleisten. Der Schutz des Individuums bildet das Fundament unserer Gesellschaft und allein dies soll die Ewigkeitsgarantie/Ewigkeitsklausel erfahren, d.h., die Gültigkeit und Unveränderlichkeit ist auf ewig gegeben, und es gibt keinerlei Rechtfertigung oder Ausnahme, diese zu verletzen, außer Kraftzusetzen oder zu umgehen. Folglich ist der Schutz des Individuums stets und allem erhaben - selbst eine 100% Mehrheit darf diese nicht verletzen bzw. abwählen, denn sie soll auch zukünftigen Generationen gewiss sein.
+Der Grundgedanke: die Freiheit des Individuums soll möglichst maximal erhalten bleiben und nur minimal eingeschränkt werden, um die friedliche Koexistenz zu gewährleisten. Der Schutz des Individuums bildet das Fundament unserer Gesellschaft und wird durch die Ewigkeitsgarantie/Ewigkeitsklausel abgesichert, d.h., die Gültigkeit und Unveränderlichkeit ist auf ewig gegeben, und es gibt keinerlei Rechtfertigung oder Ausnahme, diese zu verletzen, außer Kraftzusetzen oder zu umgehen. Folglich ist der Schutz des Individuums stets und allem erhaben - selbst eine 100% Mehrheit darf diese nicht verletzen bzw. abwählen, denn sie soll auch zukünftigen Generationen gewiss sein.
 
 Folgendes soll zunächst als vorläufiger Schutz des Individuums gelten:
 
@@ -151,9 +151,13 @@ Dringlichkeitseinschätzung nach Sachgebiet:
 
 ---
 
-### Anmerkung
+### Schlusswort
 
-Die Änderungen bilden die Grundlage und können nach dem Willen des Volkes weiterentwickelt werden. Denn es ermächtigt die deutschen Staatsbürger und erhebt jeden Einzelnen vom Untertan zum wahrhaften Souverän.
+Die Änderungen bilden die Grundlage und können nach dem Willen des Volkes weiterentwickelt bzw. geändert werden. Denn es ermächtigt die deutschen Staatsbürger und erhebt jeden Einzelnen zum wahrhaften Souverän.
+
+Unterstützen Sie diese Petition mit Ihrer Unterschrift und durch aktives werben dafür.
+Denn nur gemeinsam können wir den notwendigen Wandel herbeiführen, um in der Gegenwart die Zukunft für all die einzigartig wunderbaren
+Leben zu gestalten, die da sind und die da kommen.
 
 Den weiteren Weg lasst uns gemeinsam bestimmen - Sapere aude!
 

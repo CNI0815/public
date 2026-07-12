@@ -101,7 +101,7 @@ Alle Beteiligten in den Gewalten bzw. staatlichen Institutionen unterstehen dami
 ### Zusätzliche Punkte
 
 - **Nationales Recht dominiert internationales Recht:** Jeder Vertrag ist stets unserer Verfassung untergeordnet.
-- **Zweckbindung staatlicher Gelder:** Jegliche staatliche Einnahmen (egal ob Steuer oder Abgabe) dürfen nur inländisch verwendet bzw. investiert werden. Auslandshilfen bedingen der Zustimmung des Volkes (Volksabstimmung!).
+- **Zweckbindung staatlicher Gelder:** Jegliche staatliche Einnahmen (egal ob Steuer oder Abgabe) dürfen nur inländisch verwendet bzw. investiert werden. Gelder die nach Außen fließen bedingen der Zustimmung des Volkes (Volksabstimmung!).
 - **Keine Schulden:** Der Staat darf keine Schulden machen. Projekte, die durch den gegebenen Haushalt nicht gedeckt sind, können dem Volk vorgeschlagen und durch Spenden realisiert werden. Kreditaufnahme/Schulden bedingen der Zustimmung des Volkes (Volksabstimmung!).
 - **Sicherung der Grundversorgung:** Infrastruktur (z.B. Straßen, Leitungen, ..) soll immer Volkseigentum bleiben. Grundversorgung/-Absicherung elementarer Bereiche (z.B. durch mehr gemeinnützige und nicht gewinnorientierte inländische Organisationen).
 - **Keine Subventionen:** Stattdessen müssen förderliche Rahmenbedingungen geschaffen werden ("Nährboden"). Dies betrifft alle Varianten von privater Organisation, Unternehmung bzw. Gesellschaftsformen (z.B. NGO's, Parteien, Stiftungen, Firmen, Konzerne etc.). Diese müssen sich privat, d.h. selbst oder durch Spenden finanzieren. Ggf. nur mit Volksabstimmung. 
@@ -119,7 +119,8 @@ Der Grundgedanke: die Freiheit des Individuums soll möglichst maximal erhalten 
 Folgendes soll zunächst als vorläufiger Schutz des Individuums gelten:
 
 - Grundrechte nach BRD GG Art. 1 bis 19, allerdings nicht enthalten sind 12a, 16a und 17a.
-- Art. 4 Abs. 2 ist auf den privaten Raum zu beschränken, und Klauseln, die Einschränkung durch andere Gesetze ermöglichen, sind ungültig/hinfällig.
+  - Art. 4 Abs. 2 ist auf den privaten Raum zu beschränken
+  - Klauseln, die Einschränkung durch andere Gesetze ermöglichen, sind folglich ungültig/hinfällig.
 - Das Recht auf analoges Leben, §32 StGB Notwehr und die Unschuldsvermutung werden hinzugefügt.
 - Ergänzung: Eine natürliche Person darf nicht schlechter gestellt werden als rein juristische Personen.
 - Die Menschenwürde nach BRD GG Art. 1 ist vage und soll mit folgender Ergänzung klarer bestimmt werden: "Die Menschenwürde beinhaltet zumindest, dass der Mensch nicht verdinglicht werden darf (zum Objekt reduziert). Folglich ist damit die (bewusste) Entscheidungsfreiheit als essentieller Aspekt eines Menschen zu erachten und darf demnach keinem Zwang/Pflicht oder Unterdrückung unterworfen werden. Die einzige Ausnahme hierzu ist der Schutz des Individuums."
@@ -155,7 +156,7 @@ Dringlichkeitseinschätzung nach Sachgebiet:
 
 Die Änderungen bilden die Grundlage und können nach dem Willen des Volkes weiterentwickelt bzw. geändert werden. Denn es ermächtigt die deutschen Staatsbürger und erhebt jeden Einzelnen zum wahrhaften Souverän.
 
-Unterstützen Sie diese Petition mit Ihrer Unterschrift und durch aktives werben dafür.
+Unterstützen Sie diese Petition mit Ihrer Unterschrift und insbesondere durch aktives werben dafür.
 Denn nur gemeinsam können wir den notwendigen Wandel herbeiführen, um in der Gegenwart die Zukunft für all die einzigartig wunderbaren
 Leben zu gestalten, die da sind und die da kommen.
 

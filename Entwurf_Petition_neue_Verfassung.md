@@ -113,19 +113,20 @@ Alle Beteiligten in den Gewalten bzw. staatlichen Institutionen unterstehen dami
 
 ### Schutz des Individuums
 
-Der ideelle diplomatische Ansatzpunkt ist das Individuum und die Gleichwertigkeit aller Individuen. Der Schutz des Individuums ist zugleich Recht und Pflicht - im Sinne: So du gewährst, so sollst du empfangen.
-Der Grundgedanke: die Freiheit des Individuums soll möglichst maximal erhalten bleiben und nur minimal eingeschränkt werden, um die friedliche Koexistenz zu gewährleisten. Der Schutz des Individuums bildet das Fundament unserer Gesellschaft und wird durch die Ewigkeitsgarantie/Ewigkeitsklausel abgesichert, d.h., die Gültigkeit und Unveränderlichkeit ist auf ewig gegeben, und es gibt keinerlei Rechtfertigung oder Ausnahme, diese zu verletzen, außer Kraftzusetzen oder zu umgehen. Folglich ist der Schutz des Individuums stets und allem erhaben - selbst eine 100% Mehrheit darf diese nicht verletzen bzw. abwählen, denn sie soll auch zukünftigen Generationen gewiss sein.
+Der ideelle diplomatische Ansatzpunkt ist das Individuum und die Gleichwertigkeit aller Individuen. Der *Schutz des Individuums* ist zugleich Recht und Pflicht - im Sinne: So du gewährst, so sollst du empfangen.
+Der Grundgedanke: die Freiheit des Individuums soll möglichst maximal erhalten bleiben und nur minimal eingeschränkt werden, um die friedliche Koexistenz zu gewährleisten. Der  *Schutz des Individuums* bildet das Fundament unserer Gesellschaft und wird durch die Ewigkeitsgarantie/Ewigkeitsklausel abgesichert, d.h., die Gültigkeit und Unveränderlichkeit ist auf ewig gegeben, und es gibt keinerlei Rechtfertigung oder Ausnahme, diese zu verletzen, außer Kraftzusetzen oder zu umgehen. Folglich ist der  *Schutz des Individuums* stets und allem erhaben - selbst eine 100% Mehrheit darf diese nicht verletzen bzw. abwählen, denn sie soll auch zukünftigen Generationen gewiss sein.
 
-Folgendes soll zunächst als vorläufiger Schutz des Individuums gelten:
+Folgendes soll zunächst als vorläufiger  *Schutz des Individuums* gelten:
 
 - Grundrechte nach BRD GG Art. 1 bis 19, allerdings nicht enthalten sind 12a, 16a und 17a.
   - Art. 4 Abs. 2 ist auf den privaten Raum zu beschränken
   - Klauseln, die Einschränkung durch andere Gesetze ermöglichen, sind folglich ungültig/hinfällig.
 - Das Recht auf analoges Leben, §32 StGB Notwehr und die Unschuldsvermutung werden hinzugefügt.
 - Ergänzung: Eine natürliche Person darf nicht schlechter gestellt werden als rein juristische Personen.
-- Die Menschenwürde nach BRD GG Art. 1 ist vage und soll mit folgender Ergänzung klarer bestimmt werden: "Die Menschenwürde beinhaltet zumindest, dass der Mensch nicht verdinglicht werden darf (zum Objekt reduziert). Folglich ist damit die (bewusste) Entscheidungsfreiheit als essentieller Aspekt eines Menschen zu erachten und darf demnach keinem Zwang/Pflicht oder Unterdrückung unterworfen werden. Die einzige Ausnahme hierzu ist der Schutz des Individuums."
+- Die Menschenwürde nach BRD GG Art. 1 ist vage und soll mit folgender Ergänzung klarer bestimmt werden: "Die Menschenwürde beinhaltet zumindest, dass der Mensch nicht verdinglicht werden darf (zum Objekt reduziert). Folglich ist damit die (bewusste) Entscheidungsfreiheit als essentieller Aspekt eines Menschen zu erachten und darf demnach keinem Zwang/Pflicht oder Unterdrückung unterworfen werden. Die einzige Ausnahme hierzu ist der  *Schutz des Individuums*."
 
-Die Erstellung eines reinen und initialen *Schutz des Individuums* ist Auftrag für die nachfolgende Zeit und muss durch eine Volksabstimmung bestätigt werden, um die vorläufige Festlegung abzulösen. Der Schutz des Individuums kann auch nachträglich um neue Schutzelemente erweitert werden. Bis dahin besteht auch für den vorläufigen Schutz des Individuums die Ewigkeitsgarantie.
+Diese vorläufige Festlegung für den *Schutz des Individuums* kann einmalig mittels Volksabstimmung durch einen neuen *Schutz des Individuums* abgelöst oder übernommen werden.
+Der *Schutz des Individuums* kann auch nachträglich um neue Schutzelemente erweitert werden. Bis dahin besteht auch für den vorläufigen *Schutz des Individuums* die Ewigkeitsgarantie.
 
 
 ---

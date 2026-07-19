@@ -135,7 +135,7 @@ Der *Schutz des Individuums* kann auch nachträglich um neue Schutzelemente erwe
 
 Dieser Abschnitt beschreibt den initialen Ablauf von Volksabstimmungen.
 
-Gesetze, Verträge, Notstandsbeschlüsse und sonstige Maßnahmen/Vorhaben sind Sachverhalte, über die das Volk durch eine Volksabstimmung entscheiden soll, indem es diese annimmt oder ablehnt. Um eine fundierte und informative Entscheidung des Souveräns zu ermöglichen, ist grundsätzlich ein demokratischer Diskurs zu führen.
+Gesetze, Verträge, Notstandsbeschlüsse und sonstige Maßnahmen/Vorhaben sind Sachverhalte, über die das Volk durch eine Volksabstimmung entscheiden soll, indem es diese annimmt oder ablehnt. Um eine fundierte und informierte Entscheidung des Souveräns zu ermöglichen, ist grundsätzlich ein demokratischer Diskurs zu führen.
 Der Geltungsbereich bestimmt, ob eine regionale, landes- oder bundesweite Volksabstimmung erforderlich ist. Sofern die Angelegenheit nicht rein inländischer Natur ist, ist eine bundesweite Volksabstimmung zwingend notwendig.
 
 Zeitrahmen für Volksabstimmungen:
@@ -169,6 +169,7 @@ Den weiteren Weg lasst uns gemeinsam bestimmen - Sapere aude!
 
 Mit Bezug auf Artikel 146 des Grundgesetzes der Bundesrepublik Deutschland ergeht im Namen des deutschen Volkes hiermit die Erlassung einer neuen Verfassung und beendet damit die Existenz der Bundesrepublik Deutschland.
 
-Neuwahlen sind unmittelbar für Legislative und Exekutive durchzuführen. Die neue Verfassung ist durch die neugewählten Volksvertreter zu realisieren bzw. weiterzuführen.
+Neuwahlen sind unmittelbar auf Bundesebene für Legislative und Exekutive durchzuführen.
+Die neue Verfassung ist durch die neugewählten Volksvertreter zu realisieren bzw. weiterzuführen.
 
-Bis dahin haben alle staatlichen Institutionen, Amtsträger, Beamte und Mandatsträger einen sauberen und reibungslosen Übergang zu gewähren und zu unterstützen. Sie verbleiben in der jeweiligen Funktion bis zur Übergabe und Übernahme der durch Neuwahl bestimmten Volksvertreter, um das Tagesgeschäft weiter zu führen. Allerdings sind sie beschnitten, Gesetze oder Maßnahmen gegen die Neuwahlen und neue Verfassung zu erlassen bzw. auszuführen oder anderweitig irgendeine Form der Belastung hervorzurufen.
+Bis dahin haben alle staatlichen Institutionen, Amtsträger, Beamte und Mandatsträger einen sauberen und reibungslosen Übergang zu gewähren und zu unterstützen. Sie verbleiben in der jeweiligen Funktion um das Tagesgeschäft weiter zu führen. Allerdings sind sie beschnitten, Gesetze oder Maßnahmen gegen die Neuwahlen und neue Verfassung zu erlassen bzw. auszuführen oder anderweitig irgendeine Form der Belastung hervorzurufen.

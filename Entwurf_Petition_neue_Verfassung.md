@@ -31,13 +31,21 @@ Dieses Schreiben zielt darauf ab einen Weg zu beschreiten, der das Wohl des deut
 
 ### Ansatz
 
-Die Reformation wird durch die neue Verfassung eingeleitet und bilded damit die Ausgangsbasis. Dazu werden im Folgenden neue Grundlagen definiert und Systemänderungen spezifiziert, welche die Entscheidungsgewalt direkt dem Volke überträgt. Daher sollen diese Änderungen bindend und unumstößlich gültig sein, ohne jegliche Möglichkeit der Aussetzung oder Entfremdung bzw. Umdeutung. Dies ermöglicht weiterhin bestehende Gesetze und Institutionen der BRD zumindest als vorläufig gültig zu erhalten, insofern sie nicht in Konflikt mit den neuen Grundlagen bzw. Systemänderungen stehen. Die hier aufgeführten neuen Grundlagen bzw. Systemänderungen sind damit stets erhaben, und BRD-Regelungen, -Gesetze (Paragraphen) und -Institutionen etc. sind untergeordnet oder ungültig.
+Der Neuanfang wird durch die neue Verfassung eingeleitet und bilded damit die Ausgangsbasis.
+Die neue Verfassungsmäßige Ordnung basiert auf dem Grundgesetz der BRD und erweitert bzw. modifiziert
+diese durch bestimmende Änderungen.
+Dies ermöglicht weiterhin bestehende Gesetze und Institutionen der BRD zumindest als vorläufig gültig zu erhalten.
+Änderungen durch die neue Verfassungsmäßige Ordnung sind stets erhaben, und BRD-Regelungen, -Gesetze (Paragraphen) und -Institutionen etc. sind untergeordnet oder ungültig.
 
 Die Implementierung zielt auf aufrichtige Teilhabe und wahrhafte Demokratie ab, bei der wörtlich jede Gewalt vom Volk ausgeht. Somit ist dies als erste und initiale Maßnahme zu verstehen, um die Volksbeteiligung - in Freiheit und Verantwortung - sukzessive auszubauen und damit den Rückbau und Übergriff des Staatsapparats auf das notwendige und minimale Maß durch grundlegende Reformationen zu realisieren.
 
 ---
 
-### Grundsätze
+### Neue Verfassungsmäßige Ordnung
+
+Die neue Verfassungsmäßige Ordnung basiert auf dem Grundgesetz der BRD und definiert bestimmende Änderungen.  
+
+#### Grundsätze
 
 **Gewaltentrennung:**
 Jegliche Person darf maximal Teil einer Gewalt zur gleichen Zeit bzw. Wahlperiode sein. Dies schließt auch die sogenannte vierte Gewalt (Medien) und fünfte Gewalt (Wirtschaft) mit ein.
@@ -48,9 +56,7 @@ Die Dienstzeit der durch das Volk gewählten Volksvertreter, Führungsebenen, Au
 **Volksabstimmungen:**
 Die Teilnahme an Volksabstimmungen ist freiwillig, die Verantwortung für informierte Entscheidungen liegt beim Individuum. Eine Volksabstimmung bedingt lediglich eine Mindestbeteiligung von einem einzigen Bürger (theoretisch). Diese Festlegung dient der Freiwilligkeit und fördert ggf. Effizienz. Die Zustimmung des Volkes bedingt eine 2/3 Mehrheit.
 
----
-
-### Legislative (gesetzgebende Gewalt)
+#### Legislative (gesetzgebende Gewalt)
 
 - Nur direkt Mandate (Bundes- und Landesebene)
 - Keine Parteienlisten mehr
@@ -61,25 +67,19 @@ Die Teilnahme an Volksabstimmungen ist freiwillig, die Verantwortung für inform
 - Die "Unterschrift" des Bundespräsidenten, welche Gesetze erst gültig bzw. wirksam macht, wird durch eine Volksabstimmung ersetzt. D.h., das Volk muss explizit jedem Gesetzesentwurf zustimmen. Dies schützt das Volk und legt wahrhaftig die gesetzgebende Gewalt in seine Hände.
 - Außerdem dient dies der Information und folglich Akzeptanz - ein Gesetz, das dem Volk nicht bekannt bzw. verständlich gemacht wird, ist letztlich Tyrannei. Daher soll auch die Judikative im Vorfeld einbezogen werden, um die Interpretation der Gesetzesvorlage dem Volke verständlich zu machen und sicherzustellen, dass es verfassungskonform ist.
 
----
-
-### Judikative (rechtsprechende Gewalt)
+#### Judikative (rechtsprechende Gewalt)
 
 - Wird vom Volk direkt gewählt (zumindest die höchsten Ämter der verschiedenen Gerichte)
 - Verfassungsrichter werden vom gesamten Volk direkt gewählt
 - Analog sind Richterpositionen ggf. Länder Sache und demnach eine Landes- oder Regionalwahl
 
----
-
-### Exekutive (ausführende Gewalt)
+#### Exekutive (ausführende Gewalt)
 
 - Regierung wird vom Volk direkt gewählt, d.h., Volk wählt Bundeskanzler, Bundesminister und analog auf Landesebene (Ministerpräsident, Landesminister alias Landesregierung)
 - Falls ein Notstand auszurufen ist, muss dieser vom Volk bestätigt werden. Des Weiteren muss dieser vorab zeitlich terminiert werden und darf maximal ein Jahr betragen und endet immer mit der Wahlperiode der Exekutive.
 - Alle Verträge und Maßnahmen müssen konform zur Verfassung sein - analog zu Gesetzen - und vom Volk in einer Abstimmung genehmigt werden.
 
----
-
-### Verteidigungsallianz (militärische Gewalt)
+#### Verteidigungsallianz (militärische Gewalt)
 
 Die militärische Gewalt wird von anderen Gewalten getrennt und untersteht einer demokratischen Kontrolle, welche direkt durch die beteiligten Völker gewählt wird. Dieses demokratische Kontrollorgan bestünde aus einem Präsidenten und einem Regierungsstab, die den militärischen Oberbefehlshaber benennen und diesem weisungsbefugt sind - ergo in der Befehlshierarchie über dem Oberbefehlshaber stehen.
 
@@ -91,27 +91,19 @@ Dieser Ansatz bringt auch die Bestrebung des deutschen Volkes zum Ausdruck, der 
 
 Dies ermöglicht mittel- bis langfristig auch eine Harmonisierung der Waffensysteme, sowie deren Produktion und Ausbildung. Damit würden Mitgliedsstaaten entlastet, die Effizienz gesteigert und die Kosten reduziert - Synergien.
 
----
-
-### Staatsmedien (Medien/Informative Gewalt)
+#### Staatsmedien (Medien/Informative Gewalt)
 
 Staatsmedien unter der direkten Herrschaft des Volkes, welches die Führungsebene und Aufsichtsrat durch Wahlen direkt bestimmt. Ihre Aufgabe soll die rein sachliche und neutrale Information der Bevölkerung sein und damit auch dem umfangreichen Bedarf hinsichtlich Wahlen bzw. Volksabstimmungen unterstützen (z.B. Vorstellung der Kandidaten, Programm Vorstellung/Erläuterung, Gesetzvorschläge der Legislative, Maßnahmen der Exekutive etc.). Das Staatsmedium dient als unabhängige Informationsquelle zusätzlich zu privaten bzw. alternativen Medien. Der Öffentlich-Rechtliche Rundfunk (ÖRR) wird verpflichtet, bis zur Implementierung und Funktionsbereitschaft den informativen Auftrag zu übernehmen.
 
----
-
-### Verfassungsschutz
+#### Verfassungsschutz
 
 Zu dem bisherigen Aufgabenbereich - der Überwachung zum Schutze des Volkes und der Verfassung - sollen auch alle staatlichen Institutionen überwacht werden. Analog zu Staatsmedien steht der Verfassungsschutz unter der direkten Herrschaft des Volkes, welches die Führungsebene sowie den Aufsichtsrat durch direkte Wahlen bestimmt. D.h., die Innenministerien (Bund und Länder) sind folglich nicht länger weisungsbefugt.
 
----
-
-### Verantwortung und Rechenschaft
+#### Verantwortung und Rechenschaft
 
 Alle Beteiligten in den Gewalten bzw. staatlichen Institutionen unterstehen damit einer besonderen Verantwortung und schulden dem Volke stets Rechenschaft. Sie sind dem Wohle des Volkes verpflichtet und sollen in Treue und Loyalität dienen, ohne Eigennutz - schließlich sind sie Teil des Volkes.
 
----
-
-### Zusätzliche Punkte
+#### Zusätzliche Änderungen
 
 - **Nationales Recht dominiert internationales Recht:** Jeder Vertrag ist stets unserer Verfassung untergeordnet.
 - **Zweckbindung staatlicher Gelder:** Jegliche staatliche Einnahmen (egal ob Steuer oder Abgabe) dürfen nur inländisch verwendet bzw. investiert werden. Gelder die nach Außen fließen bedingen der Zustimmung des Volkes (Volksabstimmung!).
@@ -122,9 +114,7 @@ Alle Beteiligten in den Gewalten bzw. staatlichen Institutionen unterstehen dami
 - **Kein Recht auf Asyl:** Das Asylrecht (Art. 16a des Grundgesetzes der Bundesrepublik Deutschland) stellt einen Zwang dar, der das Volk seiner Selbstbestimmung beraubt und die Menschenwürde verletzt. Aus diesem Grund wird es für ungültig und nicht wirksam erklärt. Nur das Volk kann Asyl gewähren (Volksabstimmung!).
 - **§188 StGB ("Majestätsbeleidigung")** wird mit sofortiger Wirkung ungültig und unwirksam.
 
----
-
-### Schutz des Individuums
+#### Schutz des Individuums
 
 Der ideelle diplomatische Ansatzpunkt ist das Individuum und die Gleichwertigkeit aller Individuen. Der *Schutz des Individuums* ist zugleich Recht und Pflicht - im Sinne: So du gewährst, so sollst du empfangen.
 Der Grundgedanke: die Freiheit des Individuums soll möglichst maximal erhalten bleiben und nur minimal eingeschränkt werden, um die friedliche Koexistenz zu gewährleisten. Der  *Schutz des Individuums* bildet das Fundament unserer Gesellschaft und wird durch die Ewigkeitsgarantie/Ewigkeitsklausel abgesichert, d.h., die Gültigkeit und Unveränderlichkeit ist auf ewig gegeben, und es gibt keinerlei Rechtfertigung oder Ausnahme, diese zu verletzen, außer Kraftzusetzen oder zu umgehen. Folglich ist der  *Schutz des Individuums* stets und allem erhaben - selbst eine 100% Mehrheit darf diese nicht verletzen bzw. abwählen, denn sie soll auch zukünftigen Generationen gewiss sein.
@@ -141,10 +131,7 @@ Folgendes soll zunächst als vorläufiger  *Schutz des Individuums* gelten:
 Diese vorläufige Festlegung für den *Schutz des Individuums* kann einmalig mittels Volksabstimmung durch einen neuen *Schutz des Individuums* abgelöst oder übernommen werden.
 Der *Schutz des Individuums* kann auch nachträglich um neue Schutzelemente erweitert werden. Bis dahin besteht auch für den vorläufigen *Schutz des Individuums* die Ewigkeitsgarantie.
 
-
----
-
-### Organisation von Volksabstimmung
+#### Organisation von Volksabstimmung
 
 Dieser Abschnitt beschreibt den initialen Ablauf von Volksabstimmungen.
 
@@ -185,4 +172,4 @@ Mit Bezug auf Artikel 146 des Grundgesetzes der Bundesrepublik Deutschland ergeh
 Neuwahlen sind unmittelbar auf Bundesebene für Legislative und Exekutive durchzuführen.
 Die neue Verfassung ist durch die neugewählten Volksvertreter zu realisieren bzw. weiterzuführen.
 
-Bis dahin haben alle staatlichen Institutionen, Amtsträger, Beamte und Mandatsträger einen sauberen und reibungslosen Übergang zu gewähren und zu unterstützen. Sie verbleiben in der jeweiligen Funktion um das Tagesgeschäft weiter zu führen. Allerdings sind sie beschnitten, Gesetze oder Maßnahmen gegen die Neuwahlen und neue Verfassung zu erlassen bzw. auszuführen oder anderweitig irgendeine Form der Belastung hervorzurufen.
+Alle staatlichen Institutionen, Amtsträger, Beamte und Mandatsträger haben einen sauberen und reibungslosen Übergang zu gewähren und zu unterstützen. Sie verbleiben in der jeweiligen Funktion um das Tagesgeschäft weiter zu führen. Allerdings sind sie beschnitten, Gesetze oder Maßnahmen gegen die Neuwahlen und neue Verfassung zu erlassen bzw. auszuführen oder anderweitig irgendeine Form der Belastung hervorzurufen.

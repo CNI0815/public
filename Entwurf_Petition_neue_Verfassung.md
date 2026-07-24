@@ -1,4 +1,7 @@
-### Petition: *Auf den Weg zur direkten Demokratie - das unentdeckte Land*
+
+<img src="keimling.png">
+
+### Petition: *Auf den Weg zur direkten Demokratie - das unentdeckte Deutschland*
 
 **Antrag:**
 Die Bundesregierung soll eine Volksabstimmung durchführen, um über die Annahme der vorgeschlagenen neuen Verfassung zu entscheiden. Die Annahmebedingung für die neue Verfassung erfordert, analog zur Annahme des Grundgesetzes von 1949, eine Zweidrittelmehrheit.
@@ -11,14 +14,24 @@ Dieses Schreiben zielt darauf ab einen Weg zu beschreiten, der das Wohl des deut
 
 > "Es ist besser, ein einziges kleines Licht anzuzünden, als die Dunkelheit zu verfluchen." (Konfuzius)
 
-**Absicht:**
-Zum Wohle des deutschen Volkes und damit aller Menschen soll dieses winzige Licht leuchten auf dem Wege zur direkten Demokratie, deren Fundament der Schutz des Individuums mit Ewigkeitsgarantie sei. Ziel ist die Rückgewinnung der Souveränität des deutschen Volkes.
+<table>
+  <tr>
+    <td>
+    Zum Wohle des deutschen Volkes und damit aller Menschen soll dieses winzige Licht leuchten auf dem Wege zur direkten Demokratie, deren Fundament der Schutz des Individuums mit Ewigkeitsgarantie sei. Ziel ist die Rückgewinnung der Souveränität des deutschen Volkes.
+    </td>
+    <td>
+      <div style="text-align:right">
+      <img src="deutschlandswiedergeburthambacherfest.png" >
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Ansatz
 
-Die Reformation wird durch die neue Verfassung eingeleitet und bilded damit die Ausgangsbasis. Dazu werden im Folgenden neue Grundlagen definiert und Systemänderungen spezifiziert, welche die Entscheidungsgewalt direkt dem Volke überträgt. Daher sollen diese Änderungen bindend und unumstößlich gültig sein, ohne jegliche Möglichkeit der Aussetzung oder Entfremdung bzw. Umdeutung. Dies ermöglicht weiterhin bestehende Gesetze und Institutionen der BRD zumindest als vorläufig gültig zu erhalten, insofern sie nicht in Konflikt mit den neuen Grundlagen bzw. Systemänderungen stehen. Die hier aufgeführten neuen Grundlagen bzw. Systemänderungen sind damit stets erhaben, und BRD-Regelungen, -Gesetze (Paragraphen) und -Institutionen etc. sind untergeordnet oder ungültig, falls diese in Konflikt stehen.
+Die Reformation wird durch die neue Verfassung eingeleitet und bilded damit die Ausgangsbasis. Dazu werden im Folgenden neue Grundlagen definiert und Systemänderungen spezifiziert, welche die Entscheidungsgewalt direkt dem Volke überträgt. Daher sollen diese Änderungen bindend und unumstößlich gültig sein, ohne jegliche Möglichkeit der Aussetzung oder Entfremdung bzw. Umdeutung. Dies ermöglicht weiterhin bestehende Gesetze und Institutionen der BRD zumindest als vorläufig gültig zu erhalten, insofern sie nicht in Konflikt mit den neuen Grundlagen bzw. Systemänderungen stehen. Die hier aufgeführten neuen Grundlagen bzw. Systemänderungen sind damit stets erhaben, und BRD-Regelungen, -Gesetze (Paragraphen) und -Institutionen etc. sind untergeordnet oder ungültig.
 
 Die Implementierung zielt auf aufrichtige Teilhabe und wahrhafte Demokratie ab, bei der wörtlich jede Gewalt vom Volk ausgeht. Somit ist dies als erste und initiale Maßnahme zu verstehen, um die Volksbeteiligung - in Freiheit und Verantwortung - sukzessive auszubauen und damit den Rückbau und Übergriff des Staatsapparats auf das notwendige und minimale Maß durch grundlegende Reformationen zu realisieren.
 

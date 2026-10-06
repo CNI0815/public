@@ -81,11 +81,12 @@ einem einzelnen Wahlentscheid ist unzulässig.
 
 - Regierung wird vom Volk direkt gewählt, d.h., Volk wählt Bundeskanzler, Bundesminister und analog auf Landesebene (Ministerpräsident, Landesminister alias Landesregierung)
 - Falls ein Notstand auszurufen ist, muss dieser vom Volk bestätigt werden. Des Weiteren muss dieser vorab zeitlich terminiert werden und darf maximal ein Jahr betragen und endet immer mit der Wahlperiode der Exekutive.
-- Alle Verträge und Maßnahmen müssen konform zur Verfassung sein - analog zu Gesetzen - und vom Volk in einer Abstimmung genehmigt werden.
+- Alle Verträge und Maßnahmen müssen konform zur Verfassung sein - analog zu Gesetzen - und vom Volk in einer Abstimmung genehmigt werden (zumindest auf Bundes- und Landesebene erforderlich, z.B. Regierung und Ministerien).
+  
 
 #### Verteidigungsallianz (militärische Gewalt)
 
-Die militärische Gewalt wird von anderen Gewalten getrennt und untersteht einer demokratischen Kontrolle, welche direkt durch die beteiligten Völker gewählt wird. Dieses demokratische Kontrollorgan bestünde aus einem Präsidenten und einem Regierungsstab, die den militärischen Oberbefehlshaber benennen und diesem weisungsbefugt sind - ergo in der Befehlshierarchie über dem Oberbefehlshaber stehen.
+Die militärische Gewalt wird von anderen Gewalten getrennt und untersteht einer demokratischen Kontrolle, welche direkt durch die beteiligten Völker gewählt wird. Dieses demokratische Kontrollorgan bestünde z.B. aus einem Präsidenten und einem Regierungsstab, die den militärischen Oberbefehlshaber benennen und diesem weisungsbefugt sind - ergo in der Befehlshierarchie über dem Oberbefehlshaber stehen.
 
 Damit wird die militärische Gewalt von nationalen Entscheidungen losgelöst und die Grundlage für eine gemeinschaftliche Verteidigungsarmee geschaffen. Deren Zweck besteht allein in der Verteidigung der Mitgliedsstaaten bzw. Völker.
 
@@ -147,7 +148,7 @@ Die Änderungen bilden die Grundlage und können nach dem Willen des Volkes weit
 Denn es ermächtigt die deutschen Staatsbürger und erhebt jeden Einzelnen zum wahrhaften Souverän. 
 
 Unterstützen Sie diese Petition mit Ihrer Unterschrift und insbesondere durch aktives werben dafür.
-Denn nur gemeinsam können wir den notwendigen Wandel herbeiführen, um in der Gegenwart die Zukunft für all die einzigartig wunderbaren
+Denn nur gemeinsam können wir den notwendigen Wandel herbeiführen, um in der Gegenwart die Zukunft für all die wunderbaren
 Leben zu gestalten, die da sind und die da kommen.
 
 Den weiteren Weg lasst uns gemeinsam bestimmen - Sapere aude!
@@ -160,5 +161,6 @@ Mit Bezug auf Artikel 146 des Grundgesetzes der Bundesrepublik Deutschland ergeh
 
 Neuwahlen sind unmittelbar auf Bundesebene für Legislative und Exekutive durchzuführen.
 Die neue Verfassung ist durch die neugewählten Volksvertreter zu realisieren bzw. weiterzuführen.
+Dies gilt insbesonders für die notwendige Infrastruktur zur Verwirklichung gebotener Volksabstimmungen.
 
 Alle staatlichen Institutionen, Amtsträger, Beamte und Mandatsträger haben einen sauberen und reibungslosen Übergang zu gewähren und zu unterstützen. Sie verbleiben in der jeweiligen Funktion um das Tagesgeschäft weiter zu führen. Allerdings sind sie beschnitten, Gesetze oder Maßnahmen gegen die Neuwahlen und neue Verfassung zu erlassen bzw. auszuführen oder anderweitig irgendeine Form der Belastung hervorzurufen.
